@@ -7,6 +7,7 @@ Suivi de la série de cours FastAPI de Corey Schafer : code et notes, séance pa
 | Séance | Sujet | Notes | Code |
 |---|---|---|---|
 | 01 | Setup du projet, première route API, HTML vs JSON, doc auto-générée | [NOTES.md](seance-01/NOTES.md) | [main.py](seance-01/main.py) |
+| 02 | Frontend HTML avec templates Jinja2, fichiers statiques, héritage de templates | [NOTES.md](seance-02/NOTES.md) | [main.py](seance-02/main.py) |
 
 ## Installation
 
