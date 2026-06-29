@@ -10,6 +10,7 @@ Suivi de la série de cours FastAPI de Corey Schafer : code et notes, séance pa
 | 02 | Frontend HTML avec templates Jinja2, fichiers statiques, héritage de templates | [NOTES.md](seance-02/NOTES.md) | [main.py](seance-02/main.py) |
 | 03 | Path parameters, validation automatique, gestion d'erreurs (HTTPException, exception handlers) | [NOTES.md](seance-03/NOTES.md) | [main.py](seance-03/main.py) |
 | 04 | Pydantic Schemas : validation des requêtes/réponses, response_model, création de posts | [NOTES.md](seance-04/NOTES.md) | [main.py](seance-04/main.py) |
+| 05 | Base de données avec SQLAlchemy : modèles, relations, dependency injection | [NOTES.md](seance-05/NOTES.md) | [main.py](seance-05/main.py) |
 
 ## Installation
 
