@@ -11,6 +11,7 @@ Suivi de la série de cours FastAPI de Corey Schafer : code et notes, séance pa
 | 03 | Path parameters, validation automatique, gestion d'erreurs (HTTPException, exception handlers) | [NOTES.md](seance-03/NOTES.md) | [main.py](seance-03/main.py) |
 | 04 | Pydantic Schemas : validation des requêtes/réponses, response_model, création de posts | [NOTES.md](seance-04/NOTES.md) | [main.py](seance-04/main.py) |
 | 05 | Base de données avec SQLAlchemy : modèles, relations, dependency injection | [NOTES.md](seance-05/NOTES.md) | [main.py](seance-05/main.py) |
+| 06 | CRUD complet : PUT/PATCH/DELETE, mise à jour partielle, cascade delete | [NOTES.md](seance-06/NOTES.md) | [main.py](seance-06/main.py) |
 
 ## Installation
 
