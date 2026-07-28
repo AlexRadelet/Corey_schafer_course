@@ -15,6 +15,7 @@ Suivi de la série de cours FastAPI de Corey Schafer : code et notes, séance pa
 | 07 | Sync vs Async : conversion de l'app en asynchrone, eager loading | [NOTES.md](seance-07/NOTES.md) | [main.py](seance-07/main.py) |
 | 08 | Routers : organisation des routes en modules avec APIRouter | [NOTES.md](seance-08/NOTES.md) | [main.py](seance-08/main.py) |
 | 09 | Frontend Forms : formulaires Bootstrap connectés à l'API via JavaScript | [NOTES.md](seance-09/NOTES.md) | [main.py](seance-09/main.py) |
+| 10 | Authentication : inscription, connexion et JWT (argon2 + pyjwt) | [NOTES.md](seance-10/NOTES.md) | [main.py](seance-10/main.py) |
 
 ## Installation
 
