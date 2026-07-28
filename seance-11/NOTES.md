@@ -115,6 +115,6 @@ if (user && user.id === postAuthorId) {
 La vérification côté backend (403) reste indispensable — le JS côté client n'est pas une vraie protection (n'importe qui peut l'outrepasser avec les DevTools).
 
 ## Remarques / questions à creuser
-- `CurrenUser` (avec une seule `r`) est un typo dans le code — ça fonctionne mais mériterait d'être corrigé en `CurrentUser` pour la lisibilité.
+- `CurrenUser` (avec une seule `r`) était un typo dans le code — corrigé en `CurrentUser` en séance 12.
 - La protection des routes utilisateur (`PATCH /api/users/{user_id}`, `DELETE /api/users/{user_id}`) est maintenant en place, mais il n'y a pas de rôle "admin" — un utilisateur ne peut modifier que son propre compte. Un système de rôles (admin/user) pourrait être ajouté plus tard.
 - À venir en séance 12 : upload de fichiers (photos de profil).
