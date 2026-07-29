@@ -18,8 +18,8 @@ Suivi de la série de cours FastAPI de Corey Schafer : code et notes, séance pa
 | 10 | Authentication : inscription, connexion et JWT (argon2 + pyjwt) | [NOTES.md](seance-10/NOTES.md) | [main.py](seance-10/main.py) |
 | 11 | Authorization : protection des routes et vérification du propriétaire | [NOTES.md](seance-11/NOTES.md) | [main.py](seance-11/main.py) |
 | 12 | File Uploads : traitement d'images avec Pillow, stockage et sécurité | [NOTES.md](seance-12/NOTES.md) | [main.py](seance-12/main.py) |
-| 13 | Pagination : chargement des donn�es par pages avec query parameters | [NOTES.md](seance-13/NOTES.md) | [main.py](seance-13/main.py) |
-| 14 | R�initialisation de mot de passe : email, tokens et background tasks | [NOTES.md](seance-14/NOTES.md) | [main.py](seance-14/main.py) |
+| 13 | Pagination : chargement des données par pages avec query parameters | [NOTES.md](seance-13/NOTES.md) | [main.py](seance-13/main.py) |
+| 14 | Réinitialisation de mot de passe : email, tokens et background tasks | [NOTES.md](seance-14/NOTES.md) | [main.py](seance-14/main.py) |
 
 ## Installation
 
