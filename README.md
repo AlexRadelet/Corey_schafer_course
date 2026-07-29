@@ -1,4 +1,4 @@
-﻿# Corey Schafer â€” Cours FastAPI
+# Corey Schafer â€” Cours FastAPI
 
 Suivi de la sÃ©rie de cours FastAPI de Corey Schafer : code et notes, sÃ©ance par sÃ©ance, pour pouvoir y replonger rapidement en cas de besoin.
 
@@ -19,6 +19,7 @@ Suivi de la sÃ©rie de cours FastAPI de Corey Schafer : code et notes, sÃ©anc
 | 11 | Authorization : protection des routes et vÃ©rification du propriÃ©taire | [NOTES.md](seance-11/NOTES.md) | [main.py](seance-11/main.py) |
 | 12 | File Uploads : traitement d'images avec Pillow, stockage et sÃ©curitÃ© | [NOTES.md](seance-12/NOTES.md) | [main.py](seance-12/main.py) |
 | 13 | Pagination : chargement des données par pages avec query parameters | [NOTES.md](seance-13/NOTES.md) | [main.py](seance-13/main.py) |
+| 14 | Réinitialisation de mot de passe : email, tokens et background tasks | [NOTES.md](seance-14/NOTES.md) | [main.py](seance-14/main.py) |
 
 ## Installation
 
