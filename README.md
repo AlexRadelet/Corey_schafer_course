@@ -20,6 +20,7 @@ Suivi de la série de cours FastAPI de Corey Schafer : code et notes, séance pa
 | 12 | File Uploads : traitement d'images avec Pillow, stockage et sécurité | [NOTES.md](seance-12/NOTES.md) | [main.py](seance-12/main.py) |
 | 13 | Pagination : chargement des données par pages avec query parameters | [NOTES.md](seance-13/NOTES.md) | [main.py](seance-13/main.py) |
 | 14 | Réinitialisation de mot de passe : email, tokens et background tasks | [NOTES.md](seance-14/NOTES.md) | [main.py](seance-14/main.py) |
+| 15 | PostgreSQL et Alembic : migrations de base de données | [NOTES.md](seance-15/NOTES.md) | [main.py](seance-15/main.py) |
 
 ## Installation
 
